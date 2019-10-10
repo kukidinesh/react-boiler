@@ -1,0 +1,15 @@
+{
+  "short_name": "Short Name",
+  "name": "A full name that appears in description",
+  "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "192x192 128x128 64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "theme_color": "#222",
+  "background_color": "#222"
+}

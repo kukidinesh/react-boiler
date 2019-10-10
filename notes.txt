@@ -1,0 +1,3 @@
+lsof -nP -i4TCP:5000 | grep LISTEN
+
+To check the running process
