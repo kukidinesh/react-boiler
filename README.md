@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## React Server Side Rendering Guide
 
 ###### Directory structure
@@ -34,3 +35,7 @@ npm run dev     # to run development server
 
 npm run build   # to create production build
 ```
+=======
+# react-boiler
+Basic skeleton to start react project
+>>>>>>> 75439bc375d00bf5adbea241ac99c355931e4122
